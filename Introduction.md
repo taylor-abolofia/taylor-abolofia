@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @taylor-abolofia
-- 👀 I’m interested in learning new things. I'm currently getting my MBA but have always been interested in CS - I'm looking to expand my knowledge in the web dev world
+- 👀 I’m interested in learning new things. I'm currently getting my MBA but have always been interested in CS - I'm looking to expand my knowledge in the data analytics & data science world
 - 🌱 I’m currently learning microsoft's Web-dev-for-beginners curriculum 
 - 💞️ I’m looking to collaborate on anything!
 - 📫 You can reach me on linkedin or twitter
