@@ -1,6 +1,11 @@
 - 👋 Hi, I’m @taylor-abolofia
-- 👀 I’m interested in learning new things. I'm currently getting my MBA but have always been interested in CS - I'm looking to expand my knowledge in the data analytics & data science world
-- 🌱 I’m currently learning microsoft's Web-dev-for-beginners curriculum 
+- 👀 I’m interested in learning new things - right now cloud engineering & IT Architecture
+- 🪪 Some of my credentials include:
+      - B.S. in Supply Chain Management, WWU
+      - Masters in Business Administration, WSU
+      - Data Visualization Certificate, UW
+      - Cloud Data Analytics, MIT
+- 🌱 I’m currently learning Cloud Engineering in GCP
 - 💞️ I’m looking to collaborate on anything!
 - 📫 You can reach me on linkedin or twitter
 
