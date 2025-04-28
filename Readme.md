@@ -1,11 +1,11 @@
 - 👋 Hi, I’m @taylor-abolofia
-- 👀 I’m interested in learning new things - right now cloud engineering & IT Architecture
+- 👀 I’m interested in learning new things - right now upskilling in Systems Design & Computing Architecture
 - 🪪 Some of my credentials include:
       - B.S. in Supply Chain Management, WWU
       - Masters in Business Administration, WSU
       - Data Visualization Certificate, UW
       - Cloud Data Analytics, MIT
-- 🌱 I’m currently learning Cloud Engineering in GCP
+- 🌱 I’m currently learning Systems Design via https://github.com/donnemartin/system-design-primer/
 - 💞️ I’m looking to collaborate on anything!
 - 📫 You can reach me on linkedin or twitter
 
